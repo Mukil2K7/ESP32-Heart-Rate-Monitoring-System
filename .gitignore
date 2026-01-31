@@ -1,0 +1,23 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+
+# Arduino IDE
+*.ino~
+*.bak
+*.tmp
+
+# ESP32 build folders
+.pio/
+.vscode/
+
+# Node / Web
+node_modules/
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
